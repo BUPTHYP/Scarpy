@@ -1,4 +1,4 @@
-//the difference ASCII(1 bit) and unicode and utf-8 （2bit）
+//the difference ASCII(1 byte) and unicode and utf-8 （2byte）
 //unicode cost more  memorry resources, so we always transforme unicode to utf8 for 
 //the version is python2 
 s="abc"
