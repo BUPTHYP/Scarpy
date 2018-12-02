@@ -6,5 +6,5 @@ su=u"abc"
 s.endcoe("utf8")
 su.encode("utf8")
 s="我用python"
-su=u"我用python" //pyhon3 is fault unicode
-s.decode("gb2312").encode("utf-8")//in windows,the Chinese code falut is gb2312,When we use encode（utf-8）,We first transform 's' to unicode
+su=u"我用python"  //pyhon3 is fault unicode
+s.decode("gb2312").encode("utf-8") //in windows,the Chinese code falut is gb2312,When we use encode（utf-8）,We first transform 's' to unicode
